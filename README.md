@@ -1,5 +1,5 @@
-![pixelwhiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelwhiz&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelwhiz&layout=compact&theme=github_dark)](https://github.com/pixelwhiz/github-readme-stats)
+![pixelwhiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelwhiz&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelwhiz&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/pixelwhiz/github-readme-stats)
 
 - 🌱 Saya ingin mempelajari Artificial Intelegence (AI).
 
