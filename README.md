@@ -4,4 +4,4 @@
 - 🌱 Saya ingin mempelajari Artificial Intelegence (AI).
 
 Follow me on [Instagram](https://instagram.com/mdafftfa) or connect with me on [Youtube](https://youtube.com/@pixelwhiz01) or you can join my Discord Community [Discord](https://discord.io/pixelwhiz) group.<br />
-For more info about me please visit my portfolio: [github.io/pixelwhiz](https://github.io/pixelwhiz).
+For more info about me please visit my portfolio: [pixelwhiz.github.io](https://pixelwhiz.github.io).
