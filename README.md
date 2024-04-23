@@ -5,10 +5,10 @@
 
 ### Sosial Media & Community 🌐
 
-- 📷 Follow me on [Instagram](https://instagram.com/daffaxcl)
-- 🎥 Connect with me on [YouTube](https://youtube.com/@daffaxcl)
-- 💬 Join my vibrant community on [Discord](https://discord.io/daffaxcl)
+> 📷 Follow me on [Instagram](https://instagram.com/daffaxcl)
+> 🎥 Connect with me on [YouTube](https://youtube.com/@daffaxcl)
+> 💬 Join my vibrant community on [Discord](https://discord.io/daffaxcl)
 
 ### Portfolio 🌟
 
-For more info about me, projects, and achievements, check out my portfolio: [pixelwhiz.is-a.dev](https://pixelwhiz.is-a.dev).
+> For more info about me, projects, and achievements, check out my portfolio: [pixelwhiz.is-a.dev](https://pixelwhiz.is-a.dev).
