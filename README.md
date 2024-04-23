@@ -8,4 +8,4 @@
 - ✉️ Contact me on [Discord](https://discordapp.com/users/591983759965028363) or [Email](mailto:daffa11futn@gmail.com) 
 
 ### Portfolio
-- For more info about me, projects, and achievements, check out my portfolio: [pixelwhiz.is-a.dev](https://pixelwhiz.is-a.dev).
+- For more info about me, projects, and achievements, check out my [portfolio](https://pixelwhiz.is-a.dev).
