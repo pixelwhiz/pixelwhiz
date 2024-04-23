@@ -6,7 +6,9 @@
 ### Sosial Media & Community 🌐
 
 > 📷 Follow me on [Instagram](https://instagram.com/daffaxcl)
+> 
 > 🎥 Connect with me on [YouTube](https://youtube.com/@daffaxcl)
+> 
 > 💬 Join my vibrant community on [Discord](https://discord.io/daffaxcl)
 
 ### Portfolio 🌟
