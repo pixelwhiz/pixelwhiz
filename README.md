@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=pixelwhiz&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=taskaru&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 Hello, I'am Daffa! 👋
 
