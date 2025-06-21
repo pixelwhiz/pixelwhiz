@@ -1,4 +1,4 @@
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=pixelwhiz&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=pixelwhiz&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 Hello, I'am Daffa! 👋
 
