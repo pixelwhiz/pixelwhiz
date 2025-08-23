@@ -9,3 +9,8 @@
 🤝 I’m looking for help with Frontend Developer  
 🌱 I’m currently learning C# and Java such as [**.NET Core**](https://github.com/dotnet/core) and [**PowerNukkitX**](https://github.com/PowerNukkitX/PowerNukkitX) etc  
 💬 Ask me about Minecraft or Backend Development
+
+<br>
+
+<a href="https://www.buymeacoffee.com/pixelwhiz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<br>
