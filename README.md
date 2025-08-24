@@ -12,4 +12,4 @@
 
 If you are looking for Minecraft or Backend Developer connect with me on [LinkedIn](https://www.linkedin.com/in/daffaxcl) or contact me on [Discord](https://discord.com/users/591983759965028363)
 
-<a href="https://www.buymeacoffee.com/pixelwhiz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<a href="https://www.buymeacoffee.com/daffaxcl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
