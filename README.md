@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pixelwhiz&theme=darcula&show_icons=true&hide_border=true&locale=en&layout=compact" width="342" />
 </p>
 
-### Hello, I'm Daffa! 👋
+### About Me
 
 👯 I specialize in transforming complex data into actionable insights and automated trading strategies.  
 💬 Ask me about Trading Platform, Stratagies and Bot development
