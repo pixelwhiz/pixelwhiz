@@ -5,11 +5,9 @@
 
 ### About Me
 
-👯 I specialize in transforming complex data into actionable insights and automated trading strategies.
-
-❤ Versatile full-stack developer specializing in algorithmic trading systems across multiple platforms. I combine modern web technologies with deep financial technology expertise to create complete trading ecosystems.
-
-💬 Ask me about Trading Platform, Stratagies and Bot development
+<p>👯 I specialize in transforming complex data into actionable insights and automated trading strategies.\n
+❤ Versatile full-stack developer specializing in algorithmic trading systems across multiple platforms. I combine modern web technologies with deep financial technology expertise to create complete trading ecosystems.\n
+💬 Ask me about Trading Platform, Stratagies and Bot development</p>
 
 
 
